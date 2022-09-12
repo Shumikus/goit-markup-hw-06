@@ -591,14 +591,14 @@ button {
   margin-right: 70px;
 }
 
-.form-mail-footer {
+.form-email-footer {
   display: flex;
   flex-direction: row;
   width: 358px;
   height: 50px;
 }
 
-.mail-form-input {
+.email-form-input {
   display: block;
   width: 358px;
   height: 50px;
